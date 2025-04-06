@@ -1,4 +1,4 @@
-## Stage👋
+## Stage
 
 The Stage Programming Language
 
